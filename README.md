@@ -19,10 +19,10 @@ Logo:
 
 <h1>Code</h1>
 
-'''Python
+'Python
 print("Area of circle")
 pi = float(input("Enter value of pi : "))
 r = int(input("Enter value of r : "))
 A = pi*(r**2)
 print(A)
-'''
+'
