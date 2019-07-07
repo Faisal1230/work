@@ -19,7 +19,7 @@ Logo:
 <h1>Code</h1>
 
 `Python
-print("Area of circle")
+<p>print("Area of circle")</p>
 pi = float(input("Enter value of pi : "))
 r = int(input("Enter value of r : "))
 A = pi*(r**2)
