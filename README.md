@@ -13,7 +13,7 @@ Find area of circle take a value from user.
 
 Some images of Area of circle:
 
-Logo:
+
 ![alt text](https://www.onlinemathlearning.com/image-files/xarea-circle.png.pagespeed.ic.pHsq7ZnD4v.png)
 
 <h1>Code</h1>
