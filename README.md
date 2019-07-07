@@ -18,10 +18,10 @@ Logo:
 
 <h1>Code</h1>
 
-`Python
+```Python
 <p>print("Area of circle")</p>
 <p>pi = float(input("Enter value of pi : "))</p>
 <p>r = int(input("Enter value of r : "))</p>
 <p>A = pi*(r**2)</p>
 <p>print(A)</p>
-`
+```
