@@ -8,8 +8,7 @@ Find area of circle take a value from user.
 <p> A = pi*r**2 </p>
 
 <h2>File Link</h2>
-[Here is the link of my file]
-(https://github.com/Faisal1230/work)
+[Here is the link of my file](https://github.com/Faisal1230/work)
 
 
 Some images of Area of circle:
@@ -19,10 +18,10 @@ Logo:
 
 <h1>Code</h1>
 
-'Python
+`Python
 print("Area of circle")
 pi = float(input("Enter value of pi : "))
 r = int(input("Enter value of r : "))
 A = pi*(r**2)
 print(A)
-'
+`
