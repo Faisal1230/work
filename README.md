@@ -13,5 +13,4 @@ Find area of circle take a value from user.
 Some images of Area of circle:
 
 Logo:
-![alt text](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwii6ZeTnqLjAhUQaBoKHZ2GDkwQjRx6BAgBEAU&url=https%3A%2F%2Fwww.onlinemathlearning.com%2Farea-of-circle.html&psig=AOvVaw3sw6bJd_qTGKOohIErPHip&ust=1562569231631412)
- 
+![alt text](https://www.onlinemathlearning.com/image-files/xarea-circle.png.pagespeed.ic.pHsq7ZnD4v.png)
