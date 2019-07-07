@@ -1,4 +1,4 @@
-<h1>Work</h1>
+<h1>WORK</h1>
 Find area of circle take a value from user.
 
 <h2>AREA OF CIRCLE</h2>
@@ -7,5 +7,6 @@ Find area of circle take a value from user.
 <h4> Formula:</h4>
 <p> A = pi*r**2 </p>
 
-[Here is the link of my file](https://github.com/Faisal1230/work)
+<h2>File Link</h2>
+[Here is the link of my file.](https://github.com/Faisal1230/work)
  
