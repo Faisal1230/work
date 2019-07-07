@@ -20,8 +20,8 @@ Logo:
 
 `Python
 <p>print("Area of circle")</p>
-pi = float(input("Enter value of pi : "))
-r = int(input("Enter value of r : "))
-A = pi*(r**2)
-print(A)
+<p>pi = float(input("Enter value of pi : "))</p>
+<p>r = int(input("Enter value of r : "))</p>
+<p>A = pi*(r**2)</p>
+<p>print(A)</p>
 `
